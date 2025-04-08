@@ -1,1 +1,1 @@
-# GihubDynamiclistmanager
+# GithubDynamiclistmanager
